@@ -1,6 +1,6 @@
 # WorldUniversityRank-Tableau
 The data for this project is an open-source data downloaded from Kaggle.com.
-World University Rankings https://www.kaggle.com/datasets/mylesoneill/world-universityrankings
+World University Rankings https://www.kaggle.com/datasets/mylesoneill/world-university-rankings 
 # Data Collection 
 Of all the universities in the world, which are the best?
 Ranking universities is a difficult, political, and controversial practice. There are hundreds of 
